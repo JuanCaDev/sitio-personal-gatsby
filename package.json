@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-sitio-personal",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Sitio personal del curso de Gatsby en Código Facilito",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
